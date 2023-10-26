@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo "hello from jenkisnfile second try"
+                echo "hello from jenkisnfile second try and more"
             }
         }
         stage('for the fix branch') {
