@@ -27,7 +27,7 @@
 //     }
 // }
 
-@Library('utils') _
+@Library('my-shared-library') _
 
 log.info 'Starting'
 log.warning 'Nothing to do!'
